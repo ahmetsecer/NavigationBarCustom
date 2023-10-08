@@ -1,16 +1,10 @@
-# navigationbarcustom
+# NavigationBarCustom
 
-A new Flutter project.
+**NavigationBarCustom**, Flutter kullanarak özel gezinme çubukları oluşturmanıza yardımcı olan bir Flutter paketidir. Bu paket, standart Flutter gezinme çubuklarına görsel olarak daha fazla özelleştirme seçeneği ekler, böylece uygulamanızın gezinme deneyimini geliştirebilirsiniz.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Farklı gezinme öğeleri ve simgeleri için özelleştirilebilir renkler.
+- Görsel olarak zengin ve ilgi çekici gezinme düzenleri.
+- Kolay entegrasyon ve kullanım için basit API.
+- Daha fazla özelleştirme seçeneği için özelleştirilebilir bileşenler.
