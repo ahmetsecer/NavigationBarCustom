@@ -1,12 +1,12 @@
-# NavigationBarCustom
+#NavigationBarCustom
 
-**NavigationBarCustom**, Flutter kullanarak özel gezinme çubukları oluşturmanıza yardımcı olan bir Flutter paketidir. Bu paket, standart Flutter gezinme çubuklarına görsel olarak daha fazla özelleştirme seçeneği ekler, böylece uygulamanızın gezinme deneyimini geliştirebilirsiniz.
+**NavigationBarCustom** is a Flutter package that helps you create custom navigation bars using Flutter. This pack adds more visual customization options to standard Flutter navigation bars, so you can enhance your app's navigation experience.
 
-## Özellikler
+## Features
 
-- Farklı gezinme öğeleri ve simgeleri için özelleştirilebilir renkler.
-- Görsel olarak zengin ve ilgi çekici gezinme düzenleri.
-- Kolay entegrasyon ve kullanım için basit API.
-- Daha fazla özelleştirme seçeneği için özelleştirilebilir bileşenler.
+- Customizable colors for different navigation elements and icons.
+- Visually rich and engaging navigation layouts.
+- Simple API for easy integration and usage.
+- Customizable components for more customization options.
 
 <img width="464" alt="NavigationBarCustom" src="https://github.com/ahmetsecer/NavigationBarCustom/assets/60434610/60068b79-c896-49f8-b3b9-84fcaddfde97">
